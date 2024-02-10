@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">Software engineering student at University of Hail, Flutter developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed595" alt="mohammed595" /></a> </p>
-
 - 🔭 I’m currently working on **BAZAR App**
 
 - 🌱 I'm developing myself more in **Flutter**
