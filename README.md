@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">Software engineering student at University of Hail, Flutter developer</h3>
 
-- 🔭 I’m currently working on **BAZAR App**
+- 🔭 I’m currently working on **XYZ**
 
 - 🌱 I'm developing myself more in **Flutter**
 
